@@ -1,0 +1,28 @@
+{
+  "drinks":[
+    {
+      "name":"Latte",
+      "price":6,
+      "coffee":2,
+      "milk":2,
+      "sugar":2,
+      "water":1
+    },
+    {
+      "name":"Americano",
+      "price":4,
+      "coffee":3,
+      "milk":0,
+      "sugar":0,
+      "water":2
+    },
+    {
+      "name":"Cappuccino",
+      "price":5,
+      "coffee":2,
+      "milk":2,
+      "sugar":1,
+      "water":1
+    }
+    ]
+}
